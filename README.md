@@ -12,6 +12,11 @@
 
 - 🤗 Fun fact: My favorite soccer player is Leo Messi.
 
-![](https://github-readme-stats.vercel.app/api?username=KevinWang676&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+ <p align="center" >
+ <a href="https://github.com/KevinWang676/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=KevinWang676&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=flase" alt="Kevin's github stats" /></a> 
 
+<!--  <p align="center" >
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=KevinWang676&theme=react-dark" alt="Kevin's github activity graph" /></a> 
+ -->
+ 
 [![](https://visitcount.itsvg.in/api?id=KevinWang676&icon=0&color=0)](https://visitcount.itsvg.in)
