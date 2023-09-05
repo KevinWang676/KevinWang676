@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>Hi, I'm Qixuan Wang</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   <h1>Hi, I'm Kevin Wang</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>   
 <h3 align="center">An undergraduate student from Wuhan University</h3>
 
