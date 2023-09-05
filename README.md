@@ -8,7 +8,7 @@
 
 - 📫 How to contact me: qw103@duke.edu
 
-- 📺 My bilibili acount: [永远满仓的Kevin](https://space.bilibili.com/501495851)
+- 📺 My bilibili acount: [永远满仓的Kevin](https://space.bilibili.com/501495851); HuggingFace account: [Kevin Wang](https://huggingface.co/kevinwang676)
 
 - 🤗 Fun fact: My favorite soccer player is Leo Messi.
 
