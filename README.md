@@ -1,12 +1,12 @@
 <div align="center">
-   <h1>Hi, I'm Kevin Wang </h1>
+   <h1><img src="wave.gif" width="30px">Hi, I'm Kevin Wang</h1>
 </div>
 
 - 🔭 I’m currently working on **voice cloning**, **voice conversion** and **text to speech**.
 
 - 👯 I’m looking to collaborate on speech synthesis and singing voice conversion.
 
-- 📫 How to contact me: qw103@duke.edu <img src="wave.gif" width="30px">
+- 📫 How to contact me: qw103@duke.edu
 
 - 🤗 My Hugging Face account: [Kevin Wang](https://huggingface.co/kevinwang676) & bilibili account: [永远满仓的Kevin](https://space.bilibili.com/501495851)
 
