@@ -1,7 +1,7 @@
 <div align="center">
    <h1>Hi, I'm Kevin Wang</a> <img src="wave.gif" width="30" /> </h1>
 </div>   
-<p float="left"><img src="wave.gif" width="30" /></p>
+
 - 🔭 I’m currently working on **voice cloning**, **voice conversion** and **text to speech**.
 
 - 👯 I’m looking to collaborate on speech synthesis and singing voice conversion.
