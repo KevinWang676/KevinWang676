@@ -1,4 +1,4 @@
-![Header](./header.png)
+![Header](./header-image.png)
 
 - 🔭 I’m currently working on **voice cloning**, **voice conversion** and **text to speech**.
 
