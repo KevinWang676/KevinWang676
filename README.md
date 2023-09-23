@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>Hi, I'm Kevin Wang</a></h1><img src="wave.gif" width="30" />
+   <h1>Hi, I'm Kevin Wang</a><img src="wave.gif" width="30" /></h1>
 </div>   
 
 - 🔭 I’m currently working on **voice cloning**, **voice conversion** and **text to speech**.
