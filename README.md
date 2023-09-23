@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>Hi, I'm Kevin Wang</a> <img src="wave.gif" width="25"> </h1>
+   <h1>Hi, I'm Kevin Wang</a> <img src="wave.gif" width="30" /> </h1>
 </div>   
 <p float="left">
   <img src="wave.gif" width="30" />
