@@ -14,4 +14,4 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=KevinWang676&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
 
-[![](https://visitcount.itsvg.in/api?id=KevinWang676&icon=0&color=0)](https://visitcount.itsvg.in) <img src="wave.gif" width="50px">
+[![](https://visitcount.itsvg.in/api?id=KevinWang676&icon=0&color=0)](https://visitcount.itsvg.in) <img src="wave.gif" width="25px">
