@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on speech synthesis and singing voice conversion.
 
-- 📫 How to contact me: qw103@duke.edu
+- 📫 How to contact me: qw103@duke.edu <img src="wave.gif" width="30px">
 
 - 🤗 My Hugging Face account: [Kevin Wang](https://huggingface.co/kevinwang676) & bilibili account: [永远满仓的Kevin](https://space.bilibili.com/501495851)
 
@@ -14,4 +14,4 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=KevinWang676&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
 
-[![](https://visitcount.itsvg.in/api?id=KevinWang676&icon=0&color=0)](https://visitcount.itsvg.in) <img src="wave.gif" width="30px">
+[![](https://visitcount.itsvg.in/api?id=KevinWang676&icon=0&color=0)](https://visitcount.itsvg.in)
