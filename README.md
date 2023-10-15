@@ -14,4 +14,4 @@
 
 - 🍰 Fun fact: My favorite soccer player is Lionel Messi & I am an **AI enthusiast**
 
-![](https://github-readme-stats.vercel.app/api?username=KevinWang676&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<img align="top" width="192" src="best.gif" />
+![](https://github-readme-stats.vercel.app/api?username=KevinWang676&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<img align="top" width="194" src="best.gif" />
