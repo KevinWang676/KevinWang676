@@ -1,6 +1,12 @@
 <div align="center">
-   # Hi, I'm Kevin Wang <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
+   Hi, I'm Kevin Wang <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </div>
+
+<h1>
+  <a href="http://stackoverflow.com">
+    <img src="logo.png" alt="Stack Overflow" />
+  </a>
+</h1>
 
 - 🔭 I’m currently working on **speech synthesis**, **voice conversion** and **diffusion models**.
 
