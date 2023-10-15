@@ -1,6 +1,6 @@
 <div align="center">
 <h1>
-   Hi, I'm Kevin Wang <a href="http://stackoverflow.com"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></a>
+   Hi, I'm Kevin Wang <a href="https://kevinwang676.github.io/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></a>
 </h1>
 </div>
 
