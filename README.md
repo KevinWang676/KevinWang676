@@ -15,6 +15,3 @@
 - 🍰 Fun fact: My favorite soccer player is Lionel Messi.
 
 ![](https://github-readme-stats.vercel.app/api?username=KevinWang676&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
-
- <p align="center" >
- <a href="https://github.com/KevinWang676/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=KevinWang676&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=flase" alt="Kevin Wang's github stats" /></a>
