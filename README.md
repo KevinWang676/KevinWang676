@@ -1,5 +1,5 @@
 <div align="center">
-   Hi, I'm Kevin Wang <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
+   # Hi, I'm Kevin Wang <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </div>
 
 - 🔭 I’m currently working on **speech synthesis**, **voice conversion** and **diffusion models**.
