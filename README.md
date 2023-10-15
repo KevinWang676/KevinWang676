@@ -1,5 +1,5 @@
 <div align="center">
-   <h1><p>Hi, I'm Kevin Wang</p><img src="https://github.com/KevinWang676/KevinWang676/blob/main/wave.gif" width="25px"/></h1>
+   Hi, I'm Kevin Wang <img src="https://github.com/KevinWang676/KevinWang676/blob/main/wave.gif" width="25px"/>
 </div>
 
 - 🔭 I’m currently working on **speech synthesis**, **voice conversion** and **diffusion models**.
