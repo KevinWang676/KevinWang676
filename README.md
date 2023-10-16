@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on speech synthesis and text-to-image diffusion models.
 
-- 📫 How to contact me: qw103@duke.edu
+- 📫 How to reach me: qw103@duke.edu
 
 - 🤗 My Hugging Face account: [Kevin Wang](https://huggingface.co/kevinwang676) & bilibili account: [永远满仓的Kevin](https://space.bilibili.com/501495851)
 
