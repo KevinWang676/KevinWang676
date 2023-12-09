@@ -10,7 +10,7 @@
 
 - 📫 How to reach me: qw103@duke.edu
 
-- 🤗 My Hugging Face account: [Kevin Wang](https://huggingface.co/kevinwang676) & bilibili account: [永远满仓的Kevin](https://space.bilibili.com/501495851)
+- 🤗 My Hugging Face account: [Kevin Wang](https://huggingface.co/kevinwang676) & bilibili account: [永远满仓的Kevin](https://space.bilibili.com/501495851) & startup project: [TalkTalkAI](http://www.talktalkai.com/)
 
 - 🍰 Fun fact: My favorite soccer player is Lionel Messi & I am an **AI enthusiast**
 
