@@ -4,7 +4,7 @@
 </h1>
 </div>
 
-- 🔭 I’m currently working on **speech synthesis**, **voice conversion** and **diffusion models**.
+- 🔭 I’m currently working on **speech synthesis**, **voice conversion**, **diffusion models** and **LLMs**.
 
 - 👯 I’m looking to collaborate on speech synthesis and text-to-image diffusion models.
 
