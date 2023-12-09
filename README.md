@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **speech synthesis**, **voice conversion**, **diffusion models** and **LLMs**.
 
-- 👯 I’m looking to collaborate on speech synthesis and text-to-image diffusion models.
+- 👯 I’m looking to collaborate on speech synthesis and large language models.
 
 - 📫 How to reach me: qw103@duke.edu
 
