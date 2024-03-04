@@ -14,6 +14,6 @@
 
 - 🍰 Fun fact: My favorite soccer player is Lionel Messi & I am an **AI enthusiast**
 
-- 📰 News: **[Feb. 2024]** We are thrilled to launch our most powerful **AI song cover generator** ever with Shanghai Artificial Intelligence Laboratory! Check it out in our [**website**](https://www.talktalkai.com/) (please click "EN" in the first tab of our website to see the english version)! 💕
+- 📰 News: **[Feb. 2024]** We are thrilled to launch our most powerful **AI song cover generator** ever with Shanghai Artificial Intelligence Laboratory! Check it out on our [**website**](https://www.talktalkai.com/) (please click "EN" in the first tab of our website to see the English version)! 💕
 
 ![](https://github-readme-stats.vercel.app/api?username=KevinWang676&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<img align="top" width="194" src="best.gif" />
