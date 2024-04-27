@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on speech synthesis and large language models.
 
-- 📫 How to reach me: qw103@duke.edu
+- 📫 How to reach me: talktalkai.kevin@gmail.com
 
 - 🤗 My Hugging Face: [Kevin Wang](https://huggingface.co/kevinwang676) & bilibili: [永远满仓的Kevin](https://space.bilibili.com/501495851) & startup project: [TalkTalkAI](http://www.talktalkai.com/) & YouTube: [TalkTalkAI](https://www.youtube.com/@kevinwang676)
 
