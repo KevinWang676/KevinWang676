@@ -4,7 +4,7 @@
 </h1>
 </div>
 
-- 🔭 I’m currently working on **speech synthesis**, **voice conversion**, **diffusion models** and **LLMs**.   <img alt="GitHub followers" src="https://img.shields.io/github/followers/KevinWang676?style=flat-square&logo=github" />
+- 🔭 I’m currently working on **agentic systems**, **vertical AI**, **speech synthesis** and **LLMs**.   <img alt="GitHub followers" src="https://img.shields.io/github/followers/KevinWang676?style=flat-square&logo=github" />
 
 - 👯 I’m looking to collaborate on speech synthesis and large language models.
 
