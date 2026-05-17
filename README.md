@@ -18,4 +18,4 @@
 
 
 ![](https://github-readme-stats.vercel.app/api?username=KevinWang676&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<img align="top" width="194" src="best.gif" />
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinWang676)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=KevinWang676)](https://git.io/streak-stats)
