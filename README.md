@@ -10,7 +10,7 @@
 
 - 📫 How to reach me: talktalkai.kevin@gmail.com
 
-- 🤗 My Hugging Face: [Kevin Wang](https://huggingface.co/kevinwang676) & bilibili: [永远满仓的Kevin](https://space.bilibili.com/501495851) & startup: [**TalkTalkAI**](https://www.talktalkai.com/) & X: [KevinWang676](https://x.com/KevinWang676)
+- 🤗 My Hugging Face: [Kevin Wang](https://huggingface.co/kevinwang676) & bilibili: [永远满仓的Kevin](https://space.bilibili.com/501495851) & startup: [**DoingDream AI**](https://www.doingdream.com/) & X: [KevinWang676](https://x.com/KevinWang676)
 
 - 🍰 Fun fact: My favorite soccer player is Lionel Messi & I am an **AI enthusiast**
 
